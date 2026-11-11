@@ -1,0 +1,2 @@
+# cli-exercises
+Side project
